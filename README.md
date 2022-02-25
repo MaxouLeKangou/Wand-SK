@@ -3,7 +3,7 @@
 
 ## 🏹 **Comment le télécharger et l'installer ?**
 Pour télécharger ce code, ils vous suffit de cliquer [ici](https://github.com/MaxouLeKangou/Wand-SK/releases/tag/v1.0.0) ! Vous pouvez ensuite mettre ce code dans votre dossier `plugins/Skript/scripts`.<br />
-Évidement, il vous faudra le plugin [Skript](https://github.com/SkriptLang/Skript/releases). Vous n'avez plus qu'à redémarrer votre serveur ou executer la commande `/sk reload Mascots-SK`.<br />
+Évidement, il vous faudra le plugin [Skript](https://github.com/SkriptLang/Skript/releases). Vous n'avez plus qu'à redémarrer votre serveur ou executer la commande `/sk reload Wand-SK`.<br />
 Il vous faudra certainement d'autres plugins. Au besoin, je peux vous transmettre un dossier serveur avec tous mes plugins en me contactant sur discord.
 
 ## 👀 **Comment utiliser correctement Wand-SK ?**
