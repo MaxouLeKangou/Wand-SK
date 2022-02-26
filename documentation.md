@@ -3,7 +3,7 @@
 
 ## 🏹 Plus d'informations ?
 Vous souhaitez avoir des informations sur comment télécharger et installer ce code ?
-Rendez vous sur cette page : [README.md](https://github.com/Maxime-LEGRAND/Wand-SK/blob/main/README.md)
+Rendez vous sur cette page : [README.md](https://github.com/MaxouLeKangou/Wand-SK/blob/main/README.md)
 
 ## 👨‍💻 spells
 - **_Cette partie si dessous, va vous permettre de gérer comment marche vos sortilèges._**
